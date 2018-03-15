@@ -7,15 +7,15 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 /**
- * 数据库连接
+ * 脢媒戮脻驴芒脕卢陆脫
  * 
  * @author wsz
- * @date 2018年3月5日
+ * @date 2018脛锚3脭脗5脠脮
  */
 public class DBUtil {
 
 	private static String driverClass = "com.mysql.jdbc.Driver";
-	private static String url ="jdbc:mysql://106.14.213.251:3306/shopping";
+	private static String url ="jdbc:mysql://localhost:3306/shopping";
 	private static String username = "wsz";
 	private static String password = "wsz";
 	
